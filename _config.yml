@@ -1,6 +1,6 @@
-title: Milan Aryal
-description: "Livin' on the edge of web standards."
-url: https://milanaryal.com.np
+title: Steve Baros
+description: "Create value make money ."
+url: https://stevebaros.me
 
 logo:
   path: "/assets/img/m-icon-blue-on-white.png"
@@ -11,37 +11,37 @@ image: "/assets/img/writings.jpg"
 theme_color: "#2196f3"
 
 author:
-  name: Milan Aryal
-  email: considermilan@gmail.com
-  uri: https://twitter.com/MilanAryal
+  name: Steve Baros
+  email: sbarungi@hamsoftug.com
+  uri: https://twitter.com/stevebaros
   avatar: "/assets/img/m-icon-white-on-blue.png"
-  bio: "I love getting lost in developing web, travelling new places, and listening music a lot."
-  facebook: considermilan
-  twitter: MilanAryal
-  instagram: milanaryal
-  google_plus: MilanAryal
-  linkedin: MilanAryal
-  pinterest: milanaryal
-  tumblr: milanaryal
-  github: MilanAryal
-  keybase: milanaryal
-  street: "Chandragiri 15"
-  locality: Kathmandu
-  region: Bagmati
-  postcode: 44600
-  country: Nepal
+  bio: " There comes a time in every man's life when he is either coding or doing something worse."
+  facebook: 19665stevebaros
+  twitter: stevebaros
+  instagram: stevebaros
+  google_plus: stevebaros
+  linkedin: stevebaros
+  pinterest: stevebaros
+  tumblr: stevebaros
+  github: stevebaros
+  keybase: stevebaros
+  street: "First Street"
+  locality: Kampala
+  region: central
+  postcode: 2570
+  country: Uganda
 
 facebook:
   admins: 100001982813077
 
 twitter:
-  username: MilanAryal
+  username: stevebaros
 
-disqus_shortname: milanaryal
+disqus_shortname: stevebaros
 google_cse_id: 000254926668963224856:z4vgwqv7kla
 google_api_key: AIzaSyB27uh5sPHJ156nRryf1yuJn6fjo_B7qvI
-google_analytics_id: UA-42092423-1
-google_analytics_id_2: UA-42092423-2
+google_analytics_id: UA-99335803-1
+google_analytics_id_2: UA-99335803-2
 language: en
 
 nav:
@@ -52,10 +52,10 @@ nav:
   - title: Contact
     url: "/contact/"
 
-repository: MilanAryal/milanaryal.github.io
+repository: stevebaros/stevebaros.me
 branch: master
 encoding: utf-8
-timezone: Asia/Kathmandu
+timezone: Africa/Kampala
 locale: en_us
 future: true
 
