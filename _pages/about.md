@@ -2,14 +2,17 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "I'm Milan Aryal, a student living in Kathmandu, Nepal who is passionate about front-end web development, travelling new places, watching movies, and listening music a lot."
+excerpt: "Hi, I’m Stephen Barungi and I specialize in Android Applications. I’m passionate about what I do, and I love to help people."
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
 
-Hello, my name is Milan Aryal (मिलन अर्याल) and I'm a student living in Kathmandu, Nepal who is passionate about front-end web development, travelling new places, watching movies, and listening music a lot.
 
-> The name Milan (pronounced MEE-lahn), means dear, loving and gracious in Slavic; in Ancient Roman, eager and laborious; and in Sanskrit, unification.
+
+Hi, I’m Stephen Barungi and I specialize in Android Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people
+
+I am Passionate about App Development. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things.
+
 
 ### Let's be friends
 
@@ -18,42 +21,42 @@ Join me on the following networks and/or websites:
 <!-- Social links -->
 <ul class="social-links">
   <li>
-    <a rel="me" href="//twitter.com/MilanAryal">
+    <a rel="me" href="//twitter.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//facebook.com/considermilan">
+    <a rel="me" href="//facebook.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-facebook"></use></svg>
       </span><br><span class="label">Facebook</span>
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/milanaryal">
+     <a rel="me" href="//instagram.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/MilanAryal">
+    <a rel="me" href="//github.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//keybase.io/milanaryal">
+    <a rel="me" href="//keybase.io/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-key"></use></svg>
       </span><br><span class="label">Keybase</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//google.com/+MilanAryal">
+    <a rel="me" href="//google.com/+stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-google-plus"></use></svg>
       </span><br><span class="label">Google+</span>
@@ -81,14 +84,14 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-    <a rel="me" href="//milanaryal.tumblr.com">
+    <a rel="me" href="//stevebaros.tumblr.com">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-tumblr"></use></svg>
       </span><br><span class="label">Tumblr</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//medium.com/@MilanAryal">
+    <a rel="me" href="//medium.com/@stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-medium"></use></svg>
       </span><br><span class="label">Medium</span>
@@ -96,11 +99,7 @@ Join me on the following networks and/or websites:
   </li>
 </ul>
 
-<p class="pgp-key">
-  <a href="//keybase.io/milanaryal/key.asc">
-    PGP: <code>310B 1544 4945 F1A3 108E  B0A7 B51C F15F F0E9 5927</code>
-  </a>
-</p>
+
 
 Writing articles is hard, but making up designs is fun. I made this site so I would be able to do both.
 
