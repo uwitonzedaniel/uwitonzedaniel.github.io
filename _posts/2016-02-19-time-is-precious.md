@@ -1,6 +1,6 @@
 ---
 title: "Time is precious"
-date: 2016-02-19T23:51:28+05:45
+date: 2019-02-05T23:51:28+05:45
 excerpt: "Make the most of the time you have, because you can never get it back."
 ---
 
