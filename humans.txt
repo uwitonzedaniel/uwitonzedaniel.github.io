@@ -7,14 +7,14 @@ layout: null
 
 /* DESIGN BY */
 
-  Name: Milan Aryal
-  Twitter: @MilanAryal
-  Location: Kathmandu, Nepal
+  Name: Steve Baros
+  Twitter: @stevebaros
+  Location: Kampala, Uganda
 
 /* SITE */
 
   Last updated: {{ site.time | date: '%Y/%m/%d' }}
-  Language: English / Nepali
+  Language: English / Uganda
   Standards: HTML5, CSS3
   Components: Jekyll {{ jekyll.version }} <https://jekyllrb.com>
   IDE: Atom Editor <https://atom.io>,
