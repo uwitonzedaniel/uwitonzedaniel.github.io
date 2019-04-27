@@ -63,21 +63,21 @@ Join me on the following networks and/or websites:
     </a>
   </li><!--
 --><li>
-    <a rel="me" href="//linkedin.com/in/MilanAryal">
+    <a rel="me" href="//linkedin.com/in/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
       </span><br><span class="label">LinkedIn</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//pinterest.com/milanaryal">
+    <a rel="me" href="//pinterest.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-pinterest"></use></svg>
       </span><br><span class="label">Pinterest</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//snapchat.com/add/milanaryal">
+    <a rel="me" href="//snapchat.com/add/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-snapchat"></use></svg>
       </span><br><span class="label">Snapchat</span>
