@@ -1,73 +1,68 @@
----
-layout: null
-permalink: ".well-known/keybase.txt"
----
-
 ==================================================================
-https://keybase.io/milanaryal
+https://keybase.io/stevebaros
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://milanaryal.com.np
-  * I am milanaryal (https://keybase.io/milanaryal) on keybase.
-  * I have a public key with fingerprint 310B 1544 4945 F1A3 108E  B0A7 B51C F15F F0E9 5927
+  * I am an admin of https://stevebaros.me
+  * I am stevebaros (https://keybase.io/stevebaros) on keybase.
+  * I have a public key with fingerprint E37D 2E73 91B1 050E F3E0  8BB7 7496 6850 BED3 0C3A
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01019f644dd0162eabf482c543c78569ca0df869645f3724167ae6ff6e1e08fcd6cf0a",
-      "fingerprint": "310b15444945f1a3108eb0a7b51cf15ff0e95927",
+      "eldest_kid": "0101c27c7b10db129adf053777ff33726b0766c30e49267bb16af7c2dfc552c361a60a",
+      "fingerprint": "e37d2e7391b1050ef3e08bb774966850bed30c3a",
       "host": "keybase.io",
-      "key_id": "b51cf15ff0e95927",
-      "kid": "01019f644dd0162eabf482c543c78569ca0df869645f3724167ae6ff6e1e08fcd6cf0a",
-      "uid": "89903734f4bed6d07b385a6be0f19819",
-      "username": "milanaryal"
+      "key_id": "74966850bed30c3a",
+      "kid": "0101c27c7b10db129adf053777ff33726b0766c30e49267bb16af7c2dfc552c361a60a",
+      "uid": "854aa86f478a5204f42fbc802e394e19",
+      "username": "stevebaros"
     },
     "service": {
-      "hostname": "milanaryal.com.np",
+      "hostname": "stevebaros.me",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1526629026,
+  "ctime": 1557764131,
   "expire_in": 157680000,
-  "prev": "fdb55cda54afbe5f33bb5fbf4428ce77d340e12a24afa0c557a77a18825f110d",
-  "seqno": 45,
+  "prev": "d2afd12183a12d25b3ccbe8593304c7306ff740a80d40b50b4327791ed29e355",
+  "seqno": 5,
   "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.77
+Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMIpAnicrVJdSBRRFF61xCQpwpCSMiejwM3unZk7P1u+2A9IYkgWGMJ2Z+ZenXac
-WXfXzU2EULICe+gHKTXDH0qQsIeVKCxT0pd+N6SXitSgDOkhC5EerDtST/XYfbmc
-c77vu9859zzOSPGkJ+0dPNN/+U3yXNKT0Rt1nmNLTT0NnOYYMc7XwAXI8kUsg4Qj
-/oBpcD4OQABVKomiYQAo8QRrVFR4HYmCLitIUnUMDKpIqiQiKsi8CCUZE4lSiUAC
-FKobkk4B5rwcNe0qEgqGTDvCZAUINIhEUVQZD2IWKkQDWNYQ1ClElAKiIpWXGbHa
-CbsMZk7DYVJgOizHAv+yvX/g/7PvumU5RVWBIAsiFTViSAaQNUFBWNIIoFBVoOoC
-wyRk4xrC0DWmhW0cimGLa/RyLB81deKO1u3lL0yB7tQU2EEmEQw5EUd3LFaujkSC
-YZ9Lj8SCLv4k0fy/lfyaaRtsnIwRJaGw6dicDzKkHjFdaYh4SeJVwEtejtQHzRDx
-my4CyZIC2HHfIVEmSQ0NId3ASMRUI2wOgqYhygYl8opOZNkQREAgj3lWx0BHSMay
-jKGi8OzPIDA4t7da2+F8ImI+cRXTDJtVNo7UhQjXOPaocoUnKd2TujLZ3TNP+qq1
-f7av812a52Vn/epoC/fjSIxUwuhEiVg4emkh90y8Y2rDhHK9d2ci72phouIQuTKe
-efBD8+KXmcB4TysfuKcVD6WmjhQHAneTEinRT4OJoqhwe9+NeOfnNdO5qHR6l3fz
-5XVf27rjOTnf7q9PHjas480/8xaWup2u1wcOtzjNVvnuF329D69e3Db2IAbzrayj
-tfLH1pGSyuGiucDs23PezE0b++iW4oG++ZnsO1Z/d/mt/W3tU2nfs89tL81S94/N
-Hz/x7PTFp/lK3HMhZ6TsfM/7pr18Rln7wHzTumtlvcaOQ6fqJypaEpNdbcMLQ7uT
-Z189ONuZMdmzZ2vHUj+Ai89nl7pvWr8An+tIBw==
-=IGyS
+yMImAnicrVJdbAxRGN366VZLiKRIHyQukkYXd+bOzJ3ZhpaNh30oiSdEu7135s7u
+aM2s2dlta60Ikm3ET6RaqwiCVKJEPQhJpdoS4i+0IUikfzyISIgHberBTMMTj+7L
+zffdc84938l3f850X2Ge/L1z6aPyCyV5T3rbk77tb3NL04BaWhMIpkEdm7pYvcYS
+TqTO0EAQQA5yKo9VTDmoUY5XiKZDEWGMdR0hzEsUYklSEWSCwkuYUk4iOlZ5TVdF
+kVeRxBEJEhAAumFGmR23DdNxZRnCGs8wUjhXV4RMRwzKlGIsKJIki5AyDUEVecSY
+lfAYrjlKEmyVYbk9t4hM2fsH/j/7Tk7JyaJAiCzpApaJyENBF3idqjLkGVIExike
+MMFsk+xkLjrhsBSjxLYSIBMAbj9lqMyL1pvlL8wqtw6AuG05lmrVu08xx4kngh7V
+aYp72AZGI79VItQwNTdKl5FidsKwTBDkXKTqGJ4sJ4oYSwKHuABgjXHDZhHDQ4hY
+kqF7vH9YypXUeKJrHM/JiHC8xosUqSplsqggBAUVIyjpOhYgkaEmQOoGLCAeY4Vj
+Gq8wJIrAm2uXaYGg6NokUW8iI2oSJ2kzkOm7t32GL6/Qlz9zmrdivsJZ8/4sXm2u
+wHfPPp5tGCp4fTCe7QT9F5/96PhkLWoJNV979UmJ3DraPB4eml9VMff9YNnuJbdn
+VZ4eXSB+bVwxuPCMmb+vJjt+hB31n29b2/dt/alp68a29DxqjZ1rCu06NkGy/euq
+pZFM286SF5szRQ8/lh/4eTa0vG24WLtzqDe5ssqvPC5/vuZuR2ds9/PGE/rN6s9j
+MeIPq1cGavc48spw5aXcB3PR1ZN7ayZLrIq30fSO2u5Qv/K1tPtp8dbW0QZaP/Yj
+V1b85RUceLe36E3aaAq9vzx7oqWnq311PLfm/rMbXduuL/afa15WdKVmZE5v+uUw
+6HuzaX/4sD37wdPS6CTccOfYxo5fbP9Cmw==
+=j6nZ
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/milanaryal
+View my publicly-auditable identity here: https://keybase.io/stevebaros
 
 ==================================================================
