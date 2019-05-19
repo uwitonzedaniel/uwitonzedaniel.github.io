@@ -27,14 +27,14 @@ If you have any questions, comments, or would just like to say hello in general,
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/milanaryal">
+     <a rel="me" href="//instagram.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/MilanAryal">
+    <a rel="me" href="//github.com/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
@@ -44,8 +44,8 @@ If you have any questions, comments, or would just like to say hello in general,
 </ul>
 
 <p class="pgp-key">
-  <a href="//keybase.io/milanaryal/key.asc">
-    PGP: <code>310B 1544 4945 F1A3 108E  B0A7 B51C F15F F0E9 5927</code>
+  <a href="//keybase.io/stevebaros/key.asc">
+    PGP(MY Fingerprint): <code>E37D 2E73 91B1 050E F3E0 8BB7 7496 6850 BED3 0C3A</code>
   </a>
 </p>
 
