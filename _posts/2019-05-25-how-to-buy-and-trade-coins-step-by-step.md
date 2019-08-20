@@ -41,4 +41,4 @@ Coinbase
 
 if you have any inquiries kindly reach me via crypto@stevebaros.me
 
-![](https://cdn-images-1.medium.com/max/800/1*zF6xli49RRlGzurb2ZT2vA.png)
+![image showing coins](https://cdn-images-1.medium.com/max/800/1*zF6xli49RRlGzurb2ZT2vA.png "image of coins")
