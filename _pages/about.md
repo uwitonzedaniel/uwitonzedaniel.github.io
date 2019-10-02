@@ -56,13 +56,6 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-    <a rel="me" href="//google.com/+stevebaros">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-google-plus"></use></svg>
-      </span><br><span class="label">Google+</span>
-    </a>
-  </li><!--
---><li>
     <a rel="me" href="//linkedin.com/in/stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
@@ -76,20 +69,7 @@ Join me on the following networks and/or websites:
       </span><br><span class="label">Pinterest</span>
     </a>
   </li>
-  <li>
-    <a rel="me" href="//snapchat.com/add/stevebaros">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-snapchat"></use></svg>
-      </span><br><span class="label">Snapchat</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//stevebaros.tumblr.com">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-tumblr"></use></svg>
-      </span><br><span class="label">Tumblr</span>
-    </a>
-  </li>
+  
   <li>
     <a rel="me" href="//medium.com/@stevebaros">
       <span class="svg-icon svg-baseline" aria-hidden="true">
