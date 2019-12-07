@@ -2,16 +2,16 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "Hi, I’m Stephen Barungi and I specialize in Android Applications. I’m passionate about what I do, and I love to help people."
+excerpt: "Hi, I’m Azamuke Denish and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
 
 
 
-Hi, I’m Stephen Barungi and I specialize in Android Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people
+Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people
 
-I am Passionate about App Development. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things.
+I am Passionate about App Development. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
 
 
 ### Let's be friends
@@ -56,7 +56,8 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-    <a rel="me" href="//linkedin.com/in/stevebaros">
+    <a rel="me" href="//linkedin.com/in/azamuke-denish-
+42b465145/">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
       </span><br><span class="label">LinkedIn</span>
@@ -71,7 +72,7 @@ Join me on the following networks and/or websites:
   </li>
   
   <li>
-    <a rel="me" href="//medium.com/@stevebaros">
+    <a rel="me" href="//medium.com/@denishazamuke">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-medium"></use></svg>
       </span><br><span class="label">Medium</span>
