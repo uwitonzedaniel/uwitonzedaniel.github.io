@@ -1,6 +1,6 @@
-title: Steve Baros
+title: Azamuke Denish
 description: "Create value make money ."
-url: https://stevebaros.me
+url: https://azamukedenish.github.io
 
 logo:
   path: "/assets/img/m-icon-blue-on-white.png"
@@ -11,8 +11,8 @@ image: "/assets/img/writings.jpg"
 theme_color: "#2196f3"
 
 author:
-  name: Steve Baros
-  email: sbarungi@hamsoftug.com
+  name: Azamuke Denish
+  email: denishazamuke@gmail.com
   uri: https://twitter.com/stevebaros
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: " There comes a time in every man's life when he is either coding or doing something worse."
@@ -45,7 +45,7 @@ google_analytics_id_2: UA-99335803-2
 language: en
 
 nav:
-  - title: Articles
+  - title: Articles 
     url: "/writings/"
   - title: About
     url: "/about/"
