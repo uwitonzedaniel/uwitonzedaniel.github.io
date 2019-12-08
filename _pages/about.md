@@ -21,7 +21,7 @@ Join me on the following networks and/or websites:
 <!-- Social links -->
 <ul class="social-links">
   <li>
-    <a rel="me" href="//twitter.com/stevebaros">
+    <a rel="me" href="//twitter.com/azamukedenish1">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
@@ -35,26 +35,20 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/stevebaros">
+     <a rel="me" href="//instagram.com/azamukedenish">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/stevebaros">
+    <a rel="me" href="//github.com/azamukedenish">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
     </a>
   </li>
-  <li>
-    <a rel="me" href="//keybase.io/stevebaros">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-key"></use></svg>
-      </span><br><span class="label">Keybase</span>
-    </a>
-  </li>
+  
   <li>
     <a rel="me" href="//linkedin.com/in/azamuke-denish-
 42b465145/">
@@ -63,13 +57,7 @@ Join me on the following networks and/or websites:
       </span><br><span class="label">LinkedIn</span>
     </a>
   </li>
-  <li>
-    <a rel="me" href="//pinterest.com/stevebaros">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-pinterest"></use></svg>
-      </span><br><span class="label">Pinterest</span>
-    </a>
-  </li>
+ 
   
   <li>
     <a rel="me" href="//medium.com/@denishazamuke">
