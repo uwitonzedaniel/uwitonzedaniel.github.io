@@ -9,9 +9,11 @@ permalink: /about/
 
 
 
-Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people
+Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
 
 I am Passionate about App Development. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
+
+I studied Bachelor of science in computer science at Makerere University from 2016 to 2019. In July 3rd - 4th 2019, I was able to represent Makerere University at The Africa Blockchain Conference, Kampala Serena Conference Centre. I also represented the University in many exhibitions in Kampala.
 
 
 ### Let's be friends
@@ -70,7 +72,7 @@ Join me on the following networks and/or websites:
 
 
 
-Writing articles is hard, but making up designs is fun. I made this site so I would be able to do both.
+Being 100% perfect in the sight of everyman is hard, but making up high quality designs is fun. I made this site so that I can balance the two.
 
 Nothing brings me more pleasure than making something out of nothing. Even when the results are far from my ideal expectations, I find the whole ceremony of creativity completely enthralling.
 
@@ -78,7 +80,7 @@ I'd like to think that I'm very happy person, but I find the art that strikes me
 
 ### About the site
 
-In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the web industry, subjects such as design, development, or the blogosphere among other web culture topics.
+In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the mobile app industry, subjects such as design, development, or innovation among other mobile culture for businesses, companies and organisations.
 
 In case you were wondering, this site is:
 
@@ -90,7 +92,7 @@ In case you were wondering, this site is:
 
 ...for more informations see [humans.txt](/humans.txt).
 
-If you enjoy the content found here, you might like to subscribe to my <span class="svg-icon icon-feed svg-baseline" aria-hidden="true"><svg><use xlink:href="/assets/icons/icons.min.svg#icon-feed"></use></svg></span> [feed](/feed.xml). Also feel free to send me any feedback, comments, or suggestions about the site.
+If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using denishazamukeATgmailDOTcom.
 
 ### Licensing
 
