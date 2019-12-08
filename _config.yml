@@ -13,18 +13,17 @@ theme_color: "#2196f3"
 author:
   name: Azamuke Denish
   email: denishazamuke@gmail.com
-  uri: https://twitter.com/stevebaros
+  uri: https://twitter.com/azamukedenish1
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: " There comes a time in every man's life when he is either coding or doing something worse."
   facebook: azamuke.denishavogadro
   twitter: Azamukedenish1
-  instagram: stevebaros
-  google_plus: 
+  instagram: azamukedenish
+  google_plus: azamukedenish
   linkedin: azamuke-denish-42b465145
-  pinterest: stevebaros
-  tumblr: stevebaros
+  pinterest: azamukedenish
   github: azamukedenish
-  keybase: stevebaros
+  keybase: azamukedenish
   street: "First Street"
   locality: Kampala
   region: central
@@ -37,7 +36,7 @@ facebook:
 twitter:
   username: Azamukedenish1
 
-disqus_shortname: stevebaros-me
+disqus_shortname: azamukedenish
 google_cse_id: 003203019626111314589:pxhon_hlo2q
 google_api_key: AIzaSyB27uh5sPHJ156nRryf1yuJn6fjo_B7qvI
 google_analytics_id: UA-99335803-1
