@@ -11,7 +11,7 @@ permalink: /about/
 
 Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
 
-I am Passionate about App Development. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
+I am passionate about App Development and communities. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
 
 I studied Bachelor of science in computer science at Makerere University from 2016 to 2019. In July 3rd - 4th 2019, I was able to represent Makerere University at The Africa Blockchain Conference, Kampala Serena Conference Centre. I also represented the University in many exhibitions in Kampala.
 
@@ -84,7 +84,7 @@ In this site you'll find a recollection of thoughts and opinions based on my exp
 
 In case you were wondering, this site is:
 
-* Designed and developed on a [Ubuntu OS](http://www.ubuntu.com/)
+* Designed and developed on [Ubuntu OS](http://www.ubuntu.com/)
 * Developed with [Atom](http://atom.io/)
 * Used [Bootstrap](http://getbootstrap.com/) framework
 * Built on [Jekyll](http://jekyllrb.com/), the open source static site generator
