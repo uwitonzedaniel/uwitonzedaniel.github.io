@@ -44,7 +44,7 @@ google_analytics_id_2: UA-99335803-2
 language: en
 
 nav:
-  - title: Home 
+  - title: ReFresh 
   - url: "https://azamukedenish.github.io"
   - title: About
     url: "/about/"
