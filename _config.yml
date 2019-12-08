@@ -16,14 +16,14 @@ author:
   uri: https://twitter.com/stevebaros
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: " There comes a time in every man's life when he is either coding or doing something worse."
-  facebook: 19665stevebaros
-  twitter: stevebaros
+  facebook: azamuke.denishavogadro
+  twitter: Azamukedenish1
   instagram: stevebaros
-  google_plus: stevebaros
-  linkedin: stevebaros
+  google_plus: 
+  linkedin: azamuke-denish-42b465145
   pinterest: stevebaros
   tumblr: stevebaros
-  github: stevebaros
+  github: azamukedenish
   keybase: stevebaros
   street: "First Street"
   locality: Kampala
@@ -35,7 +35,7 @@ facebook:
   admins: 100001982813077
 
 twitter:
-  username: stevebaros
+  username: Azamukedenish1
 
 disqus_shortname: stevebaros-me
 google_cse_id: 003203019626111314589:pxhon_hlo2q
@@ -57,7 +57,7 @@ nav:
     url: "/privacy_policy/"
     
 
-repository: stevebaros/stevebaros.me
+repository: azamukedenish/azamukedenish.github.io
 branch: master
 encoding: utf-8
 timezone: Africa/Kampala
