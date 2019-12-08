@@ -125,5 +125,4 @@ exclude:
   - ".sass-cache"
   - script
   - src
-  - title: Articles 
-  - url: "/writings/"
+ 
