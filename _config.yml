@@ -45,7 +45,7 @@ language: en
 
 nav:
   - title: Home 
-  - url: "/writings/"
+  - url: "https://azamukedenish.github.io"
   - title: About
     url: "/about/"
   - title: Contact
