@@ -46,7 +46,7 @@ language: en
 
 nav:
   - title: Refresh 
-  - url: "https://azamukedenish.github.io"
+  - url: "https://www.covidvisualizer.com/"
   - title: About
     url: "/about/"
   - title: Contact
