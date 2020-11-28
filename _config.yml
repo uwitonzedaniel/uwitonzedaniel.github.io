@@ -1,6 +1,6 @@
 title: Azamuke Denish
 description: "my web"
-url: "https://www.covidvisualizer.com/"
+url: "https://azamukedenish.github.io"
 
 logo:
   path: "/assets/img/m-icon-blue-on-white.png"
@@ -13,7 +13,7 @@ theme_color: "#000000"
 author:
   name: Azamuke Denish
   email: denishazamuke@gmail.com
-  uri: https://www.covidvisualizer.com/
+  uri: https://azamukedenish.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
   facebook: azamuke.denishavogadro
