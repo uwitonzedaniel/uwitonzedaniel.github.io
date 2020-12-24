@@ -15,9 +15,8 @@ author:
   email: duwitonze5@gmail.com 
   uri: https://azamukedenish.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
-  bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
-  facebook: azamuke.denishavogadro
-  twitter: Azamukedenish1
+  bio: "mathematician teacher "
+  facebook: Uwitonze daniel
   instagram: azamukedenish
   google_plus: azamukedenish
   linkedin: azamuke-denish-42b465145
@@ -25,7 +24,7 @@ author:
   github: azamukedenish
   keybase: azamukedenish
   street: "First Street"
-  locality: Kampala
+  locality: Kigali
   region: central
   postcode: 2570
   country: Uganda
@@ -59,7 +58,7 @@ nav:
 repository: azamukedenish/azamukedenish.github.io
 branch: master
 encoding: utf-8
-timezone: Africa/Kampala
+timezone: Africa/Kigali
 locale: en_us
 future: true
 
